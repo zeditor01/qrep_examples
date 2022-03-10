@@ -1,18 +1,18 @@
 ## Description
 
-The goal of this github respository is to provide practical worked examples of implementing Q Replication and MQ Event Publishing solutions on z/OS and Linux. 
+The goal of this github respository is to provide practical worked examples of implementing Q Replication and MQ Event Publishing solutions on z/OS and Linux.
 It contains  
 
 * 9 documents that illustrate a range of tasks from installation through to operations and monitoring
 * code samples for some of the  tasks.
 
 Q Replication is a cross-platform data replication infrastructure for Db2 databases.
- 
-* It does provide support for Oracle, Informix, SQL Server and Sybase, but CDC Replication provides more extensive support for heterogenous scenarios including 
-event streaming platforms like Kafka. 
-* It's strengths lie in deeper support for homogeneous Db2 environments, including 
 
-* DDL replication 
+* It does provide support for Oracle, Informix, SQL Server and Sybase, but CDC Replication provides more extensive support for heterogenous scenarios including
+event streaming platforms like Kafka.
+* It's strengths lie in deeper support for homogeneous Db2 environments, including
+
+* DDL replication
 * GDPS Active-Active High Availability
 * MQ Event Publishing
 
@@ -49,5 +49,3 @@ Code samples for the demo application used in this Redpaper can be downloaded at
 [Appendix](C016_appendix.md)
 
 [Glossary](C017_glossary.md)
-
-
